@@ -1,10 +1,5 @@
 # Geometría Diferencial — Primer cuatrimestre de 2017
 
-## Equipo docente
-
-- **Clases teóricas:** Fernando Cukierman
-- **Clases prácticas:** Ignacio Darago, Juan Desimoni
-
 ## Prácticas
 
 - [Práctica 1](Practica1.pdf)
